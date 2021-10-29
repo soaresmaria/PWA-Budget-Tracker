@@ -9,6 +9,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 - The ability to enter expenses offline.
 - Offline entries should be added to the tracker when the application is brought back online
 
+## Screenshot
 
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
